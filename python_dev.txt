@@ -1,0 +1,12 @@
+【開發環境】
+
+language：python
+
+editor：sublime-text 2
+
+version_control：git
+
+debug, execute：python IDLE
+
+設定環境變數：https://stackoverflow.com/a/6318188
+run python in SLT：https://stackoverflow.com/a/17299900

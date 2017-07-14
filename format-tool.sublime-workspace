@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"data_Split"
+			],
+			[
+				"output",
+				"outputFile"
+			],
+			[
+				"a",
+				"arrOfPos"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"map",
+				"map_canvas"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git add remote",
+				"Git: Add Remote"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"git cs",
+				"Git: Custom Command"
+			],
+			[
+				"git a",
+				"Git: Add Remote"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"mkdpb",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mkd pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mdunfo",
+				"MarkdownEditing: Unfold All Sections"
+			],
+			[
+				"mked",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"mar ed",
+				"MarkdownEditing: Fold All Sections"
+			],
+			[
+				"git ",
+				"Git: Help"
+			],
+			[
+				"add re",
+				"Git: Add Remote"
+			],
+			[
+				"git help",
+				"Git: Help"
+			],
+			[
+				"git ad",
+				"Git: Add Remote"
+			],
+			[
+				"git add ",
+				"Git: Add Remote"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"html p",
+				"Markdown HTML Preview"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"open with",
+				"Markdown: Open with Haroopad"
+			],
+			[
+				"open wi",
+				"Markdown: Open with Haroopad"
+			],
+			[
+				"haroo",
+				"Markdown: Open with Haroopad"
+			],
+			[
+				"haroopad",
+				"Markdown: Open with Haroopad"
+			],
+			[
+				"markd",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"mar",
+				"Markdown HTML Preview"
+			],
+			[
+				"mar opn w",
+				"Markdown: Open with Haroopad"
+			],
+			[
+				"p c i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac c in",
+				"Package Control: Install Package"
+			],
+			[
+				"p c on in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"gf",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"mard",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"marp",
+				"Markdown HTML Preview"
+			],
+			[
+				"ma pre",
+				"Markdown HTML Preview"
+			],
+			[
+				"pack con ins",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown ",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"paconi",
+				"Package Control: Install Package"
+			],
+			[
+				"pacondisc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: d p",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack in ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa in ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 239.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/程設/GitHub/format-tools/Note_dev.md",
+		"/D/程設/theDocs/source/index.txt",
+		"/D/程設/GitHub/format-tools/add spaces.py",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/Default.sublime-commands",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Markdown HTML Preview/MarkdownHtmlPreview.py",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Markdown HTML Preview/Default (Windows).sublime-keymap",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/D/程設/GitHub/format-tools/note_dev.md",
+		"/D/程設/GitHub/format-tools/source/output.txt",
+		"/D/程設/GitHub/format-tools/README.txt",
+		"/D/程設/GitHub/format-tools/fileIO.py",
+		"/D/程設/GitHub/format-tools/source/tree-exported-Thu-Jul-06-2017.txt",
+		"/D/程設/GitHub/format-tools/source/test.txt",
+		"/D/程設/GitHub/format-tools/getDataFromFile.py",
+		"/D/程設/GitHub/format-tools/python_dev.txt",
+		"/D/程設/GitHub/python_dev.txt",
+		"/D/程設/GitHub/python開發環境.txt",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/程設/GitHub/format-tools/readfile.py",
+		"/D/程設/GitHub/Loooffy.github.io/Loooffy.github.io/index.html",
+		"/D/程設/GitHub/Loooffy.github.io/Loooffy.github.io/style.css",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/程設/GitHub/format-tools/source/tree-exported-Thu-Jul-06-2017.tree",
+		"/D/桌面/tree-exported-Thu-Jul-06-2017.tree",
+		"/D/程設/GitHub/format-tools/add spaces",
+		"/D/程設/GitHub/Loooffy.github.io/Loooffy.github.io/sandbox.html",
+		"/D/桌面/前端/sandbox.html",
+		"/D/桌面/前端/index.html",
+		"/D/桌面/前端/style.css",
+		"/D/桌面/前端/stylesandbox.css",
+		"/D/桌面/前端/stylesnadbox.css",
+		"/D/懷舊/facebook-loooffy/html/messages.htm",
+		"/D/幹活/幹教師活",
+		"/D/程設/教材/IT books.json",
+		"/D/寫作/回.md",
+		"/D/Music/創作/Studio One Keyboard Shortcuts.html",
+		"/D/程設/sandbox/gmap3/gmap3-6.1.0/demo/marker.html",
+		"/D/程設/sandbox/gmap3/gmap3_test.html",
+		"/D/程設/sandbox/gmap3/gmap3-6.1.0/gmap3_test.html",
+		"/D/程設/sandbox/gmap3/gmap3-6.1.0/demo/gmap3_test.html",
+		"/D/程設/sandbox/gmap3/gmap3_test",
+		"/D/桌面/IT books.json",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/桌面/test.md",
+		"/D/桌面/test",
+		"/D/桌面/#mdtest",
+		"/C/Users/Loooffy-PC/AppData/Roaming/Sublime Text 2/Packages/User/MultiMarkdown.sublime-settings",
+		"/D/桌面/test.html",
+		"/D/桌面/ndhu channel/index.php",
+		"/E/文本與投影片/ndhu channel/addChannel.php",
+		"/D/桌面/test2/SUMMARY.md",
+		"/D/桌面/test/book.json",
+		"/D/桌面/welcome.html",
+		"/D/桌面/welcome.php",
+		"/D/桌面/arc.html",
+		"/D/桌面/dot.html",
+		"/D/桌面/phptest"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Preview",
+			"preview",
+			"狀況：",
+			"customT",
+			".cn",
+			"customTitle",
+			"node",
+			"資工",
+			"items",
+			"posArr",
+			"pos",
+			"ctrl+shift+c",
+			"ctrl+shift",
+			"]],",
+			"\\",
+			"代理：4w",
+			"ke",
+			"data s",
+			"Algor",
+			"algor",
+			"演算",
+			"external ",
+			"},",
+			"tab",
+			"expand",
+			"累加搜尋（Incremental",
+			"use",
+			"tips",
+			"function",
+			"funion",
+			"function",
+			"d3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.git-init":
+	{
+		"height": 130.0
+	},
+	"output.git-remote":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"no",
+				"Note_dev.md"
+			],
+			[
+				"r",
+				"README.txt"
+			],
+			[
+				"out",
+				"source/output.txt"
+			],
+			[
+				"ou",
+				"source/output.txt"
+			],
+			[
+				"",
+				"source/output.txt"
+			],
+			[
+				"tre",
+				"source/tree-exported-Thu-Jul-06-2017.txt"
+			],
+			[
+				"t",
+				"source/test.txt"
+			],
+			[
+				"test",
+				"source/test.txt"
+			],
+			[
+				"te",
+				"source/test.txt"
+			],
+			[
+				"re",
+				"README.txt"
+			],
+			[
+				"p",
+				"python_dev.txt"
+			],
+			[
+				"css",
+				"/D/程設/GitHub/Loooffy.github.io/Loooffy.github.io/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
