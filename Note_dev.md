@@ -20,24 +20,24 @@ A2)建立一個輸出程式
 Q3)測試檔被破壞還要手動key in原資料
 A3)建立一個初始化程式
 
-###設計目標：
+### 設計目標
 1)找出每一筆__資料的尾巴__
 2) [在資料尾巴的位置插入換行](https://stackoverflow.com/a/35204678)
 2)擷取每一筆資料中需要用到的部分，然後格式化
 
-###已解決：
+### 已解決
 1)經由肉眼觀察資料的格式，找到每筆資料都有結尾字串']],'
 2)```file.open()```開檔案，f.read()存資料，str.find()找出結尾字串
 4)利用迴圈依序找出每一個結尾字串位置，並將每一個位置存到陣列中
 
-###待解決：
+### 待解決
 1)decode, encode
 UnicodeEncodeError: 'cp950' codec can't encode character '\u5218' in position 57: illegal multibyte sequence
 
-###改進空間：
+### 改進空間
 1)有沒有字串插入的功能？
 
-###發展空間：
+### 發展空間
 1)變成一個處理檔案格式的小程式
 
 ###參考資料：The Python Standard Library » Built in Functions
